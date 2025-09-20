@@ -1,4 +1,4 @@
-Xin chào, tôi là Nguyễn Thành Danh, sinh viên CNTT.
+Xin chào, tôi là Nguyễn Thành Danh
 Hiện tại tôi đang học năm 4 tại Đại học Nam Cần Thơ.
 Tôi quan tâm đến lập trình phần mềm và quản lý dự án.
 Tôi mong muốn nâng cao kỹ năng Git và GitHub.
