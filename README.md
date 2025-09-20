@@ -1,4 +1,3 @@
-# Git Final Exam
 Họ tên: Nguyễn Thành Danh
 MSSV: 224575
 Ngày làm bài: 20/09/2025
