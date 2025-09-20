@@ -13,5 +13,8 @@
 8. Xem video tutorial GitHub Actions.
 9. Tìm hiểu Git trong dự án thực tế.
 10. Chuẩn bị cho bài kiểm tra cuối kỳ.
+q2eq2e2qe
+q2eqe2qe2qt4t5
+r32t4r4tet43t4t4t2
 
 
