@@ -1,4 +1,4 @@
-Hello, this is Nguyễn Thành Danh
+Xin chào, đây là Nguyễn Thành Danh
 
 Hiện tại tôi đang học năm 4 tại Đại học Nam Cần Thơ.
 Tôi quan tâm đến lập trình phần mềm và quản lý dự án.
