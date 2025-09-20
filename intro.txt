@@ -1,5 +1,7 @@
 Hello, this is Nguyễn Thành Danh
+Xin chào, tôi là Nguyễn Thành Danh
 
+Conflict resolved on 20/09/2025
 
 Hiện tại tôi đang học năm 4 tại Đại học Nam Cần Thơ.
 Tôi quan tâm đến lập trình phần mềm và quản lý dự án.
