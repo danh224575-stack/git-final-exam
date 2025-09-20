@@ -1,0 +1,22 @@
+Xin chào, tôi là Nguyễn Thành Danh, sinh viên CNTT.
+Hiện tại tôi đang học năm 4 tại Đại học Nam Cần Thơ.
+Tôi quan tâm đến lập trình phần mềm và quản lý dự án.
+Tôi mong muốn nâng cao kỹ năng Git và GitHub.
+Mục tiêu nghề nghiệp: trở thành kỹ sư phần mềm.
+
+Sở thích: 
+- Đọc sách
+- Chơi thể thao
+- Du lịch
+
+Kỹ năng:
+- Lập trình Python
+- Làm việc nhóm
+- Thuyết trình
+
+Kế hoạch học tập:
+- Hoàn thành khóa học Git trong học kỳ này.
+- Thực hành Git qua các dự án nhóm.
+- Rèn luyện kỹ năng viết commit rõ ràng.
+- Tìm hiểu về CI/CD và GitHub Actions.
+- Chia sẻ kiến thức Git với bạn bè.
