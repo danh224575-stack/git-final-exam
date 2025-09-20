@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý người dùng
+1. Người dùng có thể đăng nhập.
+2. Người dùng có thể đăng ký.
+3. Người dùng có thể sửa thông tin.
+4. Người dùng có thể xóa tài khoản.
+5. Người dùng có thể đổi mật khẩu.
